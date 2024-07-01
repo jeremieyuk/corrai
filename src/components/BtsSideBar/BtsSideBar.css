@@ -1,0 +1,29 @@
+
+  
+/* Override the max-height of the .rs-tree-view class */
+.rs-tree-view {
+    max-height: 1000px !important; /* Set the desired max-height and use !important to override */
+    overflow-y: auto;
+  }
+
+.rs-tree-node-active .rs-tree-node-label{
+    color: #fff !important; 
+    background-color: rgba(0, 0, 0, 0)  !important;
+    font-weight:normal !important;
+    
+}
+.rs-tree-node-label  :hover{
+    background-color: rgba(215, 47, 47, 0)  !important;
+}
+
+.back_ward_button{
+    color: #777777 ;
+    font-size: 18px ;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.back_ward_button :hover {
+    color: #ffffff;
+}
+

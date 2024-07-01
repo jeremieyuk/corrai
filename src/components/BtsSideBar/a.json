@@ -1,0 +1,30 @@
+[
+  {
+    "btc": [
+      {
+        "address": [
+          { "address_addresses": { "active_addres": { "name": "a" } } }
+        ]
+      },
+      {
+        "address": [
+          { "address_addresses": { "active_addres": { "name": "a" } } }
+        ]
+      }
+    ]
+  },
+  {
+    "eth": [
+      {
+        "address": [
+          { "address_addresses": { "active_addres": { "name": "a" } } }
+        ]
+      },
+      {
+        "address": [
+          { "address_addresses": { "active_addres": { "name": "a" } } }
+        ]
+      }
+    ]
+  }
+]

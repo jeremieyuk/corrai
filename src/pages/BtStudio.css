@@ -1,0 +1,25 @@
+.bts-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .sidebar {
+    background: #0b0b0b;
+    width: 18%;
+    border-right: 1px solid #474747;
+    padding-top: 20px;
+    overflow-y: scroll;
+  }
+  
+  .main-charts {
+    margin-top: 20px;
+    border: 1px solid #474747;
+    width: 80%;
+    margin-right: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0b0b0b;
+
+  }
+  
